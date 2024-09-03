@@ -1,0 +1,10 @@
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\bin\Debug\3NLIDTS-JonathanGonzalez-04.exe.config
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\bin\Debug\3NLIDTS-JonathanGonzalez-04.exe
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\bin\Debug\3NLIDTS-JonathanGonzalez-04.pdb
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\3NLIDTS-JonathanGonzalez-04.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\_3NLIDTS_JonathanGonzalez_04.Form1.resources
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\_3NLIDTS_JonathanGonzalez_04.Properties.Resources.resources
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\3NLIDTS-JonathanGonzalez-04.csproj.GenerateResource.cache
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\3NLIDTS-JonathanGonzalez-04.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\3NLIDTS-JonathanGonzalez-04.exe
+C:\Users\Antonio\Desktop\universidad\TERCER semestre\programacion avanzada\Visual\3NLIDTS-JonathanGonzalez-04\3NLIDTS-JonathanGonzalez-04\obj\Debug\3NLIDTS-JonathanGonzalez-04.pdb
